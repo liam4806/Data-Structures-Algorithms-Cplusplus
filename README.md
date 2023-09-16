@@ -1,2 +1,2 @@
-# Data-Structures-Algorithms-Cplusplus
+# Data-Structures-Algorithms-C++
 Data Structures and Algorithms in C++
